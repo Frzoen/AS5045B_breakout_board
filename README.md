@@ -22,8 +22,6 @@
 ## Ready for manufacturing 
 Prepared 3x3 panel ready to sent for production.
 Dimmension < 100x100mm for cheap production.
-
-## Renders
 <p float="left">
   <img src="https://github.com/Frzoen/AS5045B_breakout_board/blob/main/graphics/as5040_v2_back_panel.png" width="300" />
   <img src="https://github.com/Frzoen/AS5045B_breakout_board/blob/main/graphics/as5040_v2_front_panel.png" width="300" /> 
