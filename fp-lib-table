@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name as5040_v2)(type KiCad)(uri ${KIPRJMOD}/as5040_v2.pretty)(options "")(descr ""))
+  (lib (name graphics)(type KiCad)(uri ${KIPRJMOD}/graphics)(options "")(descr ""))
+)
